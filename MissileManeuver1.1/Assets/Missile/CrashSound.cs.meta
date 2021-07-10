@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 2c31986bf6ca8014095296029f9dc91e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - crashSoft: {fileID: 8300000, guid: 105ac879ccbd71c4f8dcafb6f268db70, type: 3}
+  - crashHard: {fileID: 8300000, guid: 105ac879ccbd71c4f8dcafb6f268db70, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
