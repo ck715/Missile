@@ -1,3 +1,2 @@
 # Missile
-Trying to upload the file not .zip
-Is a really big file 150mb
+One day at a time... The plan is still intact ! Amendments <3
